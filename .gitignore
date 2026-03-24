@@ -1,0 +1,4 @@
+# Only allow the public-facing page — block everything else
+*
+!.gitignore
+!index.html
